@@ -1,0 +1,17 @@
+.d1{
+    
+    height:500px;
+    background-color: blue;
+}
+.d2{
+    
+    height: 500px;
+    background-color: blueviolet;
+}
+h1{
+    position: absolute;
+    top:470px;
+    left: 50px;
+    right: 40px;
+    bottom:50px;
+}

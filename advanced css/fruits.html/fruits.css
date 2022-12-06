@@ -1,0 +1,64 @@
+.l1{
+    list-style-type:none;
+    display:inline;
+    text-indent: start;
+    color:gold;
+}
+.l2{
+    list-style-type: none;
+    display: inline;
+    padding-inline: 100px;
+}
+.l3{
+    list-style-type: none;
+    display: inline;
+    padding-inline: 10px;
+}
+.l4{
+    list-style-type: none;
+    display: inline;
+    padding-inline: 10px;
+}
+.div1{
+    background-color:goldenrod ;
+    height: 50px;
+    width:1330px;
+    
+    
+}
+.div2{
+    background-image: url("logo.jpg");
+    background-size: cover;
+    color:blueviolet;
+    background-repeat: no-repeat;
+    height: 500px;
+    text-size-adjust: 200px;
+    text-align: center;
+    margin-top: 15px;
+}
+.image2{
+    margin-left: 800px;
+}
+.c1{
+    border: none;
+    border-bottom: 1px solid black;
+}
+footer{
+    color: darkgreen;
+}
+.form{
+    border-radius: 25px;
+    margin-left: 100px;
+    text-align: center;
+    width: 500px;
+    background-color: darkslateblue;
+}
+.form1{
+    border:none;
+    border-bottom: 1px solid red;
+    outline: none;
+}
+
+
+
+
